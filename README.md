@@ -16,37 +16,35 @@ Crafting meaningful growth through clarity, perspective, and creative strategy.
 
 ---
 
-# 👋 Hi, I’m Mehmet
+# 👋 Hi, I'm Mehmet
 
 I am a Computer Science Foundation student at Solent University, focused on clarity, problem‑solving, and building a strong technical foundation.  
-My learning approach is inspired by Harvard’s CS50 — prioritizing deep understanding over shortcuts.
+My approach is inspired by Harvard's CS50 — prioritizing deep understanding over shortcuts.
 
-Rather than rushing through topics or collecting certificates, I prefer to build a solid base, explore concepts deeply, and reinforce everything through hands‑on projects and structured documentation.
+Rather than rushing through topics or collecting certificates, I build a solid base, explore concepts thoroughly, and reinforce everything through hands‑on projects and structured documentation.
 
 ---
 
-## 🎯 My Learning Philosophy
+## 🎯 My Approach
 
-I approach learning with intention and discipline.  
-I strongly believe that **real mastery comes from understanding, not speed**.
+I work with intention and discipline.  
+**Real mastery comes from understanding, not speed.**
 
-- I don’t follow rigid timelines like “finish HTML in 2 weeks”
 - I only move forward once I fully understand a topic
-- Every concept is reinforced through **hands‑on mini projects**
+- Every concept is reinforced through **hands‑on projects**
 - Each project includes a **professional README**
-- Every project is deployed live to show real‑world usage
-
-I see my learning journey as a **long‑term investment**, where each small project becomes a piece of a future professional portfolio.
+- Every project is deployed live to demonstrate real‑world application
+- I treat each repository as a **real deliverable**, not a tutorial exercise
 
 ---
 
-## 🧠 Learning & Note‑Taking Workflow
+## 🧠 Workflow & Tools
 
-- **Notion** → High‑level notes, summaries, concepts  
-- **Obsidian** → Deep technical knowledge (especially JavaScript)  
+- **Notion** → Notes, summaries, concepts  
+- **Obsidian** → Deep technical documentation (especially JavaScript)  
 - **GitHub** → Version control + portfolio  
-- **Netlify** → Live deployment for early‑stage projects  
-- **Vercel** → Advanced deployments later on  
+- **Netlify** → Live deployment for front‑end projects  
+- **Vercel** → Advanced deployments  
 
 ---
 
@@ -54,36 +52,29 @@ I see my learning journey as a **long‑term investment**, where each small proj
 
 ### ✅ Completed
 - HTML (Fundamentals & Semantic Structure)
-
-### 🔄 In Progress
 - CSS (Layouts, Flexbox, Grid, Responsive Design)
 
+### 🔄 In Progress
+- JavaScript (deep focus — syntax, logic, DOM, algorithms)
+- C Programming (Solent University — QH0305 Problem Solving + personal practice)
+
 ### 🔜 Upcoming
-- JavaScript (8–12 weeks, deep focus)
 - Backend Development
 - Databases
 - Full Stack Projects
 
 ---
 
-## 📁 Project Strategy
+## 📁 Repositories
 
-Each repository includes:
-
-- Clean and readable code  
-- A **professional README**  
-- Clear project purpose  
-- Live demo link  
-- Progressive improvement mindset  
-
-Each project is treated as a **real deliverable**, not a tutorial exercise.
-
----
-
-## 🚀 First Project
-
-**About Me Page**  
-A simple but well‑structured HTML project created on day one, serving as the foundation for future improvements and refactoring as new skills are acquired.
+| Repository | Description | Status |
+|---|---|---|
+| [c-programming-journey](https://github.com/Mehmet1Kaygusuz/c-programming-journey) | C Programming fundamentals — 41 practices, basics to mini projects | 🔄 Active |
+| [problem-solving-assessments](https://github.com/Mehmet1Kaygusuz/problem-solving-assessments) | QH0305 Problem Solving — Assessment Portfolio \| Solent University 2025/26 | 🔄 Active |
+| [004_html_css_qho307_teamwork_report](https://github.com/Mehmet1Kaygusuz/004_html_css_qho307_teamwork_report) | HTML/CSS team project — QHO307 | ✅ Completed |
+| [html_003_foundation_computing_nextgen](https://github.com/Mehmet1Kaygusuz/html_003_foundation_computing_nextgen) | IT infrastructure planning — QHO308 Foundation Computing \| 12 weekly tasks | ✅ Completed |
+| [html_002_html_pattern_library](https://github.com/Mehmet1Kaygusuz/html_002_html_pattern_library) | HTML Pattern Library — reusable core components | ✅ Completed |
+| [html_mini_project_001](https://github.com/Mehmet1Kaygusuz/html_mini_project_001) | About Me Page — first HTML project | ✅ Completed |
 
 ---
 
@@ -98,7 +89,7 @@ To build a **strong academic and professional portfolio** that:
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 - GitHub: https://github.com/Mehmet1Kaygusuz  
 - LinkedIn: https://www.linkedin.com/in/mehmet1kaygusuz  
@@ -106,8 +97,7 @@ To build a **strong academic and professional portfolio** that:
 
 ---
 
-<p align="center"><i>“Small, consistent steps compound into extraordinary results.”</i></p>
-
+<p align="center"><i>"Small, consistent steps compound into extraordinary results."</i></p>
 <p align="center">Built with discipline, curiosity, and long‑term vision.</p>
 
 ---
